@@ -48,5 +48,5 @@ pip3 install -r requirements.txt
 ## References
 See our [DivFL](https://openreview.net/pdf?id=nwKXyFvaUm) paper for more details as well as all references.
 
-## Acknowledgement
+## Acknowledgements
 Our implementation is based on [FedProx](https://github.com/litian96/FedProx).
